@@ -18,5 +18,5 @@
         "supportInvite": "uDTgxyg"
     },
     "dashboardURL": "https://dbots-demo.glitch.me",
-    "mongoURL": "mongodb+srv://<username>:<password>@<mongodb_atlas_cluster_url>/DBots?retryWrites=true&w=majority"
+    "mongoURL": "mongodb+srv://darkwolf22:Tyounes22!@cluster0.kfpen.mongodb.net/dark?retryWrites=true&w=majority"
 }
