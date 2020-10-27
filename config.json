@@ -1,10 +1,10 @@
 {
     "bot": {
-        "token": "<your_bot_token>",
-        "secret": "<your_client_secret>",
-        "ownerId": "",
+        "token": "NzcwNzQ4NDc1NTY1NjcwNDEx.X5iFdA.XBrJL_SEXyWsnRWWWbAxLX6zLuM",
+        "secret": "TFgnljyYicgZCvb-TOeeaMShCh0_DMAG",
+        "ownerId": "418805461366734859",
         "activity": "dbots.co",
-        "id": "<your_bot_id>"
+        "id": "770748475565670411"
     },
     "guild": {
         "botRoleId": "770331932545384489",
