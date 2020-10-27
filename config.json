@@ -13,10 +13,10 @@
         "logChannelId": "724730682433077359"
     },
     "api": {
-        "url": "https://dbots-demo.glitch.me/api/v1",
+        "url": "https://sbl-1.glitch.me/api/v1",
         "port": "3000",
         "supportInvite": "uDTgxyg"
     },
-    "dashboardURL": "https://dbots-demo.glitch.me",
+    "dashboardURL": "https://sbl-1.glitch.me",
     "mongoURL": "mongodb+srv://darkwolf22:Tyounes22!@cluster0.kfpen.mongodb.net/dark?retryWrites=true&w=majority"
 }
