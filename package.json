@@ -12,10 +12,14 @@
     "watch": "tsc --watch",
     "serve:ssr": "node dist/twopg-dashboard/server/main.js"
     
-  
+ 
+   },
   "keywords": [],
   "author": "ADAMJR#0001",
   "license": "ISC",
+  "engines": {
+"node": "12.x"
+},
   "dependencies": {
     "@lykmapipo/rate-limit-mongoose": "^0.1.29",
     "axios": "^0.19.2",
@@ -29,6 +33,7 @@
     "mongoose": "^5.9.3",
     "node-fetch": "^2.6.1",
     "typescript": "^3.8.3"
+ 
   },
   "devDependencies": {
     "@types/axios": "^0.14.0",
