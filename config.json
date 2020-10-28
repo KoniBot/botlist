@@ -15,7 +15,7 @@
     "api": {
         "url": "https://sbl-1.glitch.me/api/v1",
         "port": "3000",
-        "supportInvite": "uDTgxyg"
+        "supportInvite": "WjRECNw"
     },
     "dashboardURL": "https://sbl-1.glitch.me",
     "mongoURL": "mongodb+srv://darkwolf22:Tyounes22!@cluster0.kfpen.mongodb.net/dark?retryWrites=true&w=majority"
